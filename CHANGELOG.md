@@ -1,3 +1,13 @@
+## [1.10.1](https://github.com/CoCreate-app/CoCreate-search/compare/v1.10.0...v1.10.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([8827a92](https://github.com/CoCreate-app/CoCreate-search/commit/8827a92acb15a4ea30aaa88de253b5ae768a5851))
+* update query attributes ([7887599](https://github.com/CoCreate-app/CoCreate-search/commit/788759980a707e570b5894c7efabad3f424b8be1))
+* updated cocreate modules versions ([b8a4ee2](https://github.com/CoCreate-app/CoCreate-search/commit/b8a4ee2c651314636a66f0382ee379d3aacf4754))
+* webpack.config and devdependencies ([be6824d](https://github.com/CoCreate-app/CoCreate-search/commit/be6824d7fb55bb8ad09c5f0c880c3d00a97f0272))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.9.3...v1.10.0) (2024-11-04)
 
 
