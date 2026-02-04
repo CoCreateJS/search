@@ -1,3 +1,10 @@
+## [1.10.3](https://github.com/CoCreate-app/CoCreate-search/compare/v1.10.2...v1.10.3) (2026-02-04)
+
+
+### Bug Fixes
+
+* update worklow ([da82154](https://github.com/CoCreate-app/CoCreate-search/commit/da82154b9d292b2d50690f1acb28346bb9eb7407))
+
 ## [1.10.2](https://github.com/CoCreate-app/CoCreate-search/compare/v1.10.1...v1.10.2) (2025-05-01)
 
 
