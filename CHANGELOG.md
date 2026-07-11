@@ -1,3 +1,11 @@
+## [1.10.4](https://github.com/CoCreate-app/CoCreate-search/compare/v1.10.3...v1.10.4) (2026-07-11)
+
+
+### Bug Fixes
+
+* removed post install and add add packages to apprved list ([e39f328](https://github.com/CoCreate-app/CoCreate-search/commit/e39f328baf81a04ad8c6f34e613e6ce8c42c1ae5))
+* semantic version handling ([52630b7](https://github.com/CoCreate-app/CoCreate-search/commit/52630b77b721968fb62d17cb11a6c49905272fb5))
+
 ## [1.10.3](https://github.com/CoCreate-app/CoCreate-search/compare/v1.10.2...v1.10.3) (2026-02-04)
 
 
