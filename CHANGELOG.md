@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.10.4...v1.11.0) (2026-07-17)
+
+
+### Features
+
+* update automated workflow and release configuration for improved semantic release handling ([634b203](https://github.com/CoCreate-app/CoCreate-search/commit/634b203012ceb567d78a3f0e82c6f73bad7b3e3a))
+
 ## [1.10.4](https://github.com/CoCreate-app/CoCreate-search/compare/v1.10.3...v1.10.4) (2026-07-11)
 
 
