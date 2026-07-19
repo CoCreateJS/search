@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/CoCreate-app/CoCreate-search/compare/v1.11.1...v1.11.2) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([a5884ff](https://github.com/CoCreate-app/CoCreate-search/commit/a5884ffe049df4f8fa76cec821ed438bf88f832f))
+
 ## [1.11.1](https://github.com/CoCreate-app/CoCreate-search/compare/v1.11.0...v1.11.1) (2026-07-17)
 
 
