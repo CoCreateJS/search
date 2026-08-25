@@ -13,7 +13,7 @@ Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-search) an
 ```
 git search https://github.com/contributor/CoCreate-search.git
 cd CoCreate-search
-git remote add upstream https://github.com/CoCreate-app/CoCreate-search.git
+git remote add upstream https://gitlab.com/cocreatejs/CoCreate-search.git
 ```
 
 ## Create a Topic Branch
