@@ -15,6 +15,36 @@
   "publishConfig": {
     "access": "public"
   },
+  "cocreate": {
+    "environment": [
+      "client"
+    ],
+    "interface": {
+      "schemaVersion": 1,
+      "summary": "A simple search component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API.",
+      "source": "src/index.js",
+      "declarative": {
+        "selectors": [
+          "[search-query]"
+        ],
+        "attributes": [
+          {
+            "name": "search-case-sensitive"
+          },
+          {
+            "name": "search_id"
+          }
+        ]
+      },
+      "api": {
+        "exports": [
+          "init",
+          "runSearchOfElement",
+          "searchEvent"
+        ]
+      }
+    }
+  },
   "scripts": {
     "start": "webpack --config webpack.config.js",
     "build": "webpack --mode=production --config webpack.config.js",
