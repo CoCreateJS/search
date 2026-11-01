@@ -4,6 +4,11 @@ import { queryElements } from "@cocreate/utils";
 const initializedElements = new WeakSet();
 
 const CoCreateSearch = {
+    /**
+     *
+ * @public
+ * @environment client
+ */
     init: function (container) {
         const mainContainer = container || document;
 
@@ -19,6 +24,11 @@ const CoCreateSearch = {
         });
     },
 
+    /**
+     *
+ * @public
+ * @environment client
+ */
     searchEvent: function (element) {
         if (initializedElements.has(element)) return;
         initializedElements.add(element);
@@ -28,6 +38,11 @@ const CoCreateSearch = {
         });
     },
 
+    /**
+     *
+ * @public
+ * @environment client
+ */
     runSearchOfElement: function (searchElement, value) {
         const search_id = searchElement.getAttribute("search_id");
         const item_selector = searchElement.attributes.getNamedItem("search-query")?.value;
@@ -65,3 +80,41 @@ Observer.init({
 });
 
 export default CoCreateSearch;
+
+/**
+ *
+ * @name search-case-sensitive
+ * @kind member
+ * @attribute
+ * @environment client
+ */
+
+/**
+ *
+ * @name search_id
+ * @kind member
+ * @attribute
+ * @environment client
+ */
+
+/**
+ * A simple search component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API.
+ *
+ * @module search
+ * @environment client
+ */
+
+/**
+ * Declarative selectors recognized by this module.
+ *
+ * @name declarative-selectors
+ * @kind member
+ * @selectors
+ * @environment client
+ * @example
+ * ```json
+ * [
+ *   "[search-query]"
+ * ]
+ * ```
+ */
