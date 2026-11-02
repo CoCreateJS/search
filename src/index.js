@@ -84,16 +84,14 @@ export default CoCreateSearch;
 /**
  *
  * @name search-case-sensitive
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
 /**
  *
  * @name search_id
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
