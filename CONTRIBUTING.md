@@ -1,19 +1,19 @@
 # Contributing to CoCreate-search
 
-This project is work of [many contributors](https://github.com/CoCreateJS/CoCreate-search/graphs/contributors).
-You're encouraged to submit [pull requests](https://github.com/CoCreateJS/CoCreate-search/pulls),
-[propose features and discuss issues](https://github.com/CoCreateJS/CoCreate-search/issues).
+This project is work of [many contributors](https://github.com/CoCreateJS/search/graphs/contributors).
+You're encouraged to submit [pull requests](https://github.com/CoCreateJS/search/pulls),
+[propose features and discuss issues](https://github.com/CoCreateJS/search/issues).
 
 In the examples below, substitute your Github username for `contributor` in URLs.
 
 ## Fork the Project
 
-Fork the [project on Github](https://github.com/CoCreateJS/CoCreate-search) and check out your copy.
+Fork the [project on Github](https://github.com/CoCreateJS/search) and check out your copy.
 
 ```
 git search https://github.com/contributor/CoCreate-search.git
 cd CoCreate-search
-git remote add upstream https://github.com/cocreatejs/CoCreate-search.git
+git remote add upstream https://github.com/CoCreateJS/search.git
 ```
 
 ## Create a Topic Branch
@@ -75,7 +75,7 @@ git push origin my-feature-branch
 
 ## Make a Pull Request
 
-Go to [https://github.com/CoCreateJS/CoCreate-search](https://github.com/CoCreateJS/CoCreate-search) and select your feature branch.
+Go to [https://github.com/CoCreateJS/search](https://github.com/CoCreateJS/search) and select your feature branch.
 Click the 'Pull Request' button and fill out the form. Pull requests are usually reviewed within a few days.
 
 ## Rebase
