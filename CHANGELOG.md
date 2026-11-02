@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/CoCreateJS/search/compare/v1.11.3...v2.0.0) (2026-11-02)
+
+
+### chore
+
+* record package identity migration as breaking ([a9e3e9d](https://github.com/CoCreateJS/search/commit/a9e3e9d9569cb6cf6d07228ed2abae0a3ef0c6fc))
+
+
+### BREAKING CHANGES
+
+* Consumers must install @cocreate/search and use the renamed CoCreateJS repository identity; the previous package and repository identities are no longer supported.
+
 ## [1.11.3](https://github.com/CoCreateJS/search/compare/v1.11.2...v1.11.3) (2026-11-02)
 
 
