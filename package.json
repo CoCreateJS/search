@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/search",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A simple search component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API.",
   "keywords": [
     "search",

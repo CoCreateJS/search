@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/search/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([7a93ffc](https://github.com/CoCreateJS/search/commit/7a93ffc0523910d7d1fc58a7b69754a3e396bf84))
+
 # [2.0.0](https://github.com/CoCreateJS/search/compare/v1.11.3...v2.0.0) (2026-11-02)
 
 
